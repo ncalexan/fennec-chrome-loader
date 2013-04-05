@@ -1,0 +1,8 @@
+{
+  "name": "fennec-chrome-loader",
+  "fullName": "Fennec Chrome Loader",
+  "description": "(Re)load Fennec browser chrome from network during development.",
+  "author": "Nick Alexander",
+  "license": "MPL 2.0",
+  "version": "0.1"
+}
